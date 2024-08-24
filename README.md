@@ -35,7 +35,6 @@ This project is a frontend application built with **Next.js** and **Tailwind CSS
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/SIDDH5320/Spreadsheet-app.git]
     cd spreadsheet-mimic
     ```
 
